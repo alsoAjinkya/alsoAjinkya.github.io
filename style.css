@@ -337,7 +337,7 @@ a:hover{
     align-items: center;
     /* overscroll-behavior: contain; */
     scrollbar-width: none;
-    touch-action: pan-x;
+/*     touch-action: pan-x; */
     scroll-snap-type: x mandatory;
     background-color: rgb(21, 21, 21);
 }
@@ -507,7 +507,7 @@ a:hover{
     /* justify-content: center; */
     overflow-x: scroll;
     scrollbar-width: none;
-    touch-action: pan-x;
+/*     touch-action: pan-x; */
     /* position: absolute; */
 }
 
